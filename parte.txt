@@ -1,0 +1,7 @@
+PARTE DE INCIDENCIAS
+--------------------
+Número de incidencias: 3
+
+Ordenador del aula 1 no funciona.
+Problemas de conexión a Internet.
+El proyector del aula 2 está averiado.
